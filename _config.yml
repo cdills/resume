@@ -7,9 +7,8 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
-remote_theme: jglovier/resume-template
-plugins:
-  - jekyll-feed
+#remote_theme: jglovier/resume-template
+
 #baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "cdills.github.io"
 
